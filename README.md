@@ -2,47 +2,45 @@
   <img src=".assets/banner-dark.png" alt="Looplylabs Banner" />
 </p>
 
-<br/>
+---
+
+### Backend systems designed to remove operational friction.
 
 ---
 
-Backend systems designed to remove operational friction.
+## System Capabilities
 
----
-
-## SYSTEM CAPABILITIES
-
-`Automation` · `APIs` · `Data Workflows` · `Internal Tools`
+`Automation` · `Data Workflows` · `Internal Tools` · `API Integrations`
 
 Small, scoped backend builds for teams that need stability over complexity.
 
 ---
 
-## BUILD PHILOSOPHY
+## Build Philosophy
 
-- Clear scope before code
-- Async communication
-- Predictable execution
-- Clean delivery
-- No lock-in
-
----
-
-## TECHNOLOGY
-
-Python · Django · PostgreSQL · Docker · Linux · Selenium · REST
+- Clear scope before code  
+- Async communication  
+- Predictable execution  
+- Clean delivery  
+- No lock-in  
 
 ---
 
-## DEPLOYMENT MODEL
+## Technology
+
+Python · Django · PostgreSQL · Selenium · Linux · Google APIs · Automation
+
+---
+
+## Deployment Model
 
 Every system is delivered with:
 
-- Full source access
-- Environment-based configuration
-- Setup documentation
-- Independent hosting capability
+- Full source access  
+- Environment-based configuration  
+- Setup documentation  
+- Independent hosting capability  
 
 ---
 
-Quiet systems. Practical engineering.
+<sub>Quiet systems. Practical engineering.</sub>
