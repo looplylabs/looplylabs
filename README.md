@@ -1,4 +1,8 @@
+<p align="center">
+  <img src=".assets/banner-dark.png" alt="Looplylabs Banner" />
+</p>
 
+<br/>
 
 ---
 
